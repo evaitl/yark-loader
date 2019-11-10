@@ -1,0 +1,3 @@
+[submodule "uefi-rs"]
+	path = uefi-rs
+	url = git@github.com:evaitl/uefi-rs.git
