@@ -1,3 +1,5 @@
 /target
 **/*.rs.bk
 build
+OVMF_CODE.fd
+OVMF_VARS-1024x768.fd
